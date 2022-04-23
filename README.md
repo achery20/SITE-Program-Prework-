@@ -32,6 +32,7 @@ The following additional features are implemented:
 
 [ ] List anything else that you can get done to improve the app!
 Video Walkthrough (GIF)
+https://drive.google.com/file/d/1xriQekdITrgedD0nIxcX1OEioBHcsdVx/view?usp=sharing
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Reflection Questions
